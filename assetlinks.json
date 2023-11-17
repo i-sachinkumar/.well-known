@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ihrsachin.apostle",
+    "sha256_cert_fingerprints":
+    ["8D:D2:6D:2C:62:AA:E4:DD:B0:32:C5:B4:42:8D:18:27:DA:28:A8:E3:B9:AF:1F:E8:26:F0:AB:98:C3:3B:52:B0"]
+  }
+}]
